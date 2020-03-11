@@ -13,9 +13,9 @@ Exterior                   |  Interior
 ![AlarmSystemPCBpdf_BlueLines](https://user-images.githubusercontent.com/25444917/76373994-22e77c80-62ff-11ea-93fb-152c3c1d5d22.jpg)
 
 ## Arduino Screen Views
-Counter | System Settings
-:-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/25444917/76385579-46baba80-631f-11ea-8842-561132f0fade.png)  |  ![](https://user-images.githubusercontent.com/25444917/76386703-630c2680-6322-11ea-8611-e8cb364a25c0.jpg)
+Counter | Timer | Limit
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://user-images.githubusercontent.com/25444917/76385579-46baba80-631f-11ea-8842-561132f0fade.png)  |  ![](https://user-images.githubusercontent.com/25444917/76385568-43273380-631f-11ea-810c-a41053276cf7.png) | ![](https://user-images.githubusercontent.com/25444917/76385575-46222400-631f-11ea-969a-39a745b4a3c9.png)
 
 ## Software Flow
 ![](https://user-images.githubusercontent.com/25444917/76386415-b467e600-6321-11ea-9688-f4d881fe721b.JPG)
